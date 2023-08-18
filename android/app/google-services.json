@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "597361148087",
+    "project_id": "mightyweb-6b66f",
+    "storage_bucket": "mightyweb-6b66f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597361148087:android:f8e64ce68b63de15980d32",
+        "android_client_info": {
+          "package_name": "com.example.notification_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597361148087-5v0bafdj8v3cu6snl2jcnn7tq1etdss5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqWQfx2w1_uciFkcdn2Fk24ETQ6wcMaNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597361148087-5v0bafdj8v3cu6snl2jcnn7tq1etdss5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
